@@ -9,7 +9,9 @@ node server.js
 // Now open your browser and visit: localhost:3000
 ```
 Works For International Locations
+
 ![alt text](https://github.com/inventingthing/simple-nodejs-weather-app/blob/master/Capture.PNG)
 
 Works in the US too
+
 ![alt text](https://github.com/inventingthing/simple-nodejs-weather-app/blob/master/Capture2.PNG)
