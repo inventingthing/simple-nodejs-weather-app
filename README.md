@@ -8,5 +8,5 @@ Simple Node.js Command Line Weather Application
 node server.js
 // Now open your browser and visit: localhost:3000
 ```
-![alt text](https://raw.githubusercontent.com/inventingthing/simple-nodejs-weather-app/master/capture.png)
-![alt text](https://raw.githubusercontent.com/inventingthing/simple-nodejs-weather-app/master/capture2.png)
+![alt text](capture.png "Works for International Locations")
+![alt text](capture2.png "Works in the US too")
